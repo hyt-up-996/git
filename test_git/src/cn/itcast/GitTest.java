@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("提交    5    ");
 
         System.out.println("br  01");
+        System.out.println("提交    6    ");
     }
 }
