@@ -20,5 +20,6 @@ public class GitTest {
 
         System.out.println("push  修改 01");
 
+        System.out.println("github  修改 02");
     }
 }
